@@ -113,8 +113,8 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saeedbasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saied's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedbasha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saeedbasha&show_icons=true&theme=tokyonight" alt="Saied's GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=saeedbasha&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
