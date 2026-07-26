@@ -109,12 +109,11 @@
 
 ---
 
-### 📈 GitHub Overview
+### 📈 GitHub Activity & Contributions
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saeedbasha&show_icons=true&theme=tokyonight" alt="Saied's GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=saeedbasha&theme=tokyonight" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saeedbasha&theme=tokyo-night&hide_border=true" alt="Saied's GitHub Activity Graph" />
 
 </div>
 
