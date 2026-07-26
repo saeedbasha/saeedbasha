@@ -1,62 +1,125 @@
-# Hi there, I'm Saied Basha 👋 
-### Learning Content Engineer & AI Developer | EdTech Specialist
+<div align="center">
 
-📍 **Berlin, Germany** | ✉️ [saied.i.basha@gmail.com](mailto:saied.i.basha@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/saied-basha-614ba150/) | 💻 [GitHub](https://github.com/saeedbasha)
+  <h1>Hi, I'm Saied Basha 👋</h1>
+  <h3>Learning Content Engineer & AI Developer</h3>
 
----
+  <p>
+    <b>Building interactive AI tools, didactically sound curricula, and automated learning pipelines in Berlin.</b>
+  </p>
 
-## 💡 About Me
-I am a **Learning Content Engineer and AI Developer** passionate about EdTech and making complex technical topics accessible to non-technical audiences. Over the past year, I've designed, built, and delivered AI & Data Science training programs across German and English bootcamps — building interactive tools, RAG agents, and DIDACTIC learning content that students and instructors use daily.
+  <p>
+    <a href="mailto:saied.i.basha@gmail.com"><img src="https://img.shields.io/badge/Email-saied.i.basha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/saied-basha-614ba150/"><img src="https://img.shields.io/badge/LinkedIn-Saied_Basha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/saeedbasha"><img src="https://img.shields.io/badge/GitHub-saeedbasha-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 
-- 🎓 **Current Role:** Teacher Assistant & AI Content Specialist at **neuefische**
-- 🛠️ **What I Build:** RAG Agents, Interactive 3D Educational Animations, AI Video Generation Pipelines, Privacy-First Assessment Apps
-- 🗣️ **Languages:** German (C1–C2), English (C1), Arabic (Native)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured EdTech & AI Projects
+### ⚡ What I Do
 
-### 🤖 1. [Discord QA Agent – Bootcamp Student Support Bot](https://github.com/saeedbasha)
-- Automated Q&A support tool built for bootcamp Discord channels across multiple concurrent cohorts (15–20 students each).
-- Hybrid **Vector + BM25 RAG** pipeline with screenshot OCR (`ChromaDB`, `LangChain`, `Ollama`, `EasyOCR`).
-
-### 🎬 2. [AI Tutor – Video Generation Engine](https://www.tiktok.com/@trendi9145)
-- Modular video engine generating daily short-form educational content and micro-learning lessons on AI & ML topics.
-- Hybrid animation workflow combining local processing (`SadTalker`, `edge-tts`) and cloud APIs (`D-ID`, `Gemini`).
-
-### 📊 3. [Interactive 3D Machine Learning Visualizations](https://github.com/saeedbasha/3D_viz_animation)
-- Standalone HTML/JS 3D animations demystifying core ML concepts (Gradient Descent, ROC curves, KNN, Bias-Variance tradeoff).
-
-### 📝 4. [Data Science Quiz & Flashcard App](https://saeedbasha.github.io/flashcard/)
-- Privacy-first web app with client-side progress tracking, real-time Google Forms score sync, and AZAV compliance tracking.
-- [🔗 Live Demo](https://saeedbasha.github.io/flashcard/) | [💻 GitHub Repo](https://github.com/saeedbasha/flashcard)
-
-### 🐍 5. [Python Virtual Environment Onboarding Explainer](https://saeedbasha.github.io/explainer/venv_presentation.html)
-- Interactive web presentation incorporated into student onboarding to demystify Python virtual environments (`venv`, `pyenv`, `uv`).
-- [🔗 Live Presentation](https://saeedbasha.github.io/explainer/venv_presentation.html)
+- 👨‍🏫 **Teaching & Mentoring:** Assistant Instructor at **neuefische**, helping 15–20 bootcamp students per cohort master Python, SQL, ML, and AI workflows in German and English.
+- ⚙️ **AI Tooling & Automation:** Building RAG support bots, interactive 3D concept explainers, and video automation pipelines that solve real classroom headaches.
+- 📋 **AZAV & Quality Assurance:** Writing audit-ready learning materials, technical assessments, and modernizing student dev setups (`venv` → `uv`).
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 Claude Code & Agentic AI Workflows
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedbasha&show_icons=true&theme=radial" alt="Saied's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedbasha&layout=compact&theme=radial" alt="Top Languages" />
-</p>
+- **Custom CLI Skills:** Designed repo-specific `SKILL.md` skills (e.g. `/add-quiz-topic` for automated assessment generation, `/review` for PR audits) to streamline teaching workflows.
+- **Workflow Hooks:** Configured `PostToolUse` shell hooks (`black`, `ruff`) for zero-overhead code formatting and automated verification.
+- **Prompt & Context Safeguards:** Standardized structured prompt engineering (Context, Ask, Constraints) and token-saving practices (`/compact`, `/clear`) across project repos.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `SQL` `JavaScript (DOM/3D)` `HTML5/CSS3` `Bash` |
+| **AI & Agentic Workflows** | `Claude Code` `LangGraph` `Smolagents` `LangChain` `Ollama` `Hugging Face` |
+| **Web Prototyping** | `Streamlit` `Flask` `Lovable` `HTML5/JS Web Apps` `GitHub Pages` |
+| **Data & MLOps** | `Docker` `AWS` `GCP` `ChromaDB` `GitHub Actions` `Pandas` |
+| **AI Media & Content** | `NotebookLM` `D-ID` `SadTalker` `HeyGen` `edge-tts` `Gamma` |
+
+---
+
+### 🚀 Featured EdTech Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Discord QA Agent</h3>
+      <p align="center"><i>Automated Bootcamp Student Support Bot</i></p>
+      <hr>
+      <p>Built a Discord support bot that handles repetitive student code error queries across concurrent cohorts.</p>
+      <ul>
+        <li>Hybrid <b>Vector + BM25 RAG</b> pipeline with screenshot OCR</li>
+        <li>Uses <code>ChromaDB</code>, <code>LangChain</code>, <code>Ollama</code>, <code>EasyOCR</code></li>
+        <li>Token safeguards to prevent context crashes & hallucinations</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 DS Quiz & Flashcard App</h3>
+      <p align="center"><i>Privacy-First Assessment Platform</i></p>
+      <hr>
+      <p>A single-file web app for student self-assessment and live instructor score tracking.</p>
+      <ul>
+        <li>Client-side progress tracking (GDPR / privacy-first)</li>
+        <li>Real-time Google Forms sync & AZAV audit QA tracking</li>
+        <li><a href="https://saeedbasha.github.io/flashcard/"><b>Live Demo</b></a> | <a href="https://github.com/saeedbasha/flashcard"><b>GitHub Repo</b></a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 3D ML Visualizations</h3>
+      <p align="center"><i>Interactive Teaching Aids</i></p>
+      <hr>
+      <p>Standalone web-based 3D animations built to help students visualize complex ML algorithms in class.</p>
+      <ul>
+        <li>Gradient Descent, ROC Curves, KNN, Bias-Variance</li>
+        <li>Pure HTML/JS front-end rendering</li>
+        <li><a href="https://github.com/saeedbasha/3D_viz_animation"><b>GitHub Repo</b></a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 AI Tutor Video Engine</h3>
+      <p align="center"><i>Daily Micro-Learning Pipeline</i></p>
+      <hr>
+      <p>Modular engine generating daily short-form educational videos on AI and ML topics.</p>
+      <ul>
+        <li>Hybrid animation combining <code>SadTalker</code> & <code>D-ID</code></li>
+        <li>Gemini scriptwriting & <code>edge-tts</code> voiceovers</li>
+        <li><a href="https://www.tiktok.com/@trendi9145"><b>TikTok Channel</b></a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📌 Click here to view Onboarding & Instructor Workshop Projects</b></summary>
+<br>
+
+- **🐍 Python `venv` Onboarding Explainer:** Interactive presentation officially incorporated into new student onboarding to demystify virtual environments (`venv`, `pyenv`, `uv`). [[Live Presentation](https://saeedbasha.github.io/explainer/venv_presentation.html)]
+- **🎓 Claude Code in Action:** Workshop guide for instructional staff demonstrating Agentic AI coding workflows and classroom delivery. [[Live Workshop](https://saeedbasha.github.io/claude_code_in_action/1)]
+
+</details>
+
+---
+
+### 📈 GitHub Overview
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saeedbasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saied's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedbasha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with 💡 for EdTech & AI Development | Berlin, Germany</sub>
+</div>
