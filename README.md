@@ -44,7 +44,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 QA Agent</h3>
-      <p align="center"><i>Automated Bootcamp Student Support Bot</i></p>
+      <p align="center"><i>Automated Student Support Bot</i></p>
       <hr>
       <p>Built a support bot that handles repetitive student code error queries across concurrent cohorts.</p>
       <ul>
