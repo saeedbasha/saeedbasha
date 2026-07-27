@@ -43,10 +43,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Discord QA Agent</h3>
+      <h3 align="center">🤖 QA Agent</h3>
       <p align="center"><i>Automated Bootcamp Student Support Bot</i></p>
       <hr>
-      <p>Built a Discord support bot that handles repetitive student code error queries across concurrent cohorts.</p>
+      <p>Built a support bot that handles repetitive student code error queries across concurrent cohorts.</p>
       <ul>
         <li>Hybrid <b>Vector + BM25 RAG</b> pipeline with screenshot OCR</li>
         <li>Uses <code>ChromaDB</code>, <code>LangChain</code>, <code>Ollama</code>, <code>EasyOCR</code></li>
