@@ -23,13 +23,6 @@
 - ⚙️ **AI Tooling & Automation:** Building RAG support bots, interactive 3D concept explainers, and video automation pipelines that solve real classroom headaches.
 - 📋 **AZAV & Quality Assurance:** Writing audit-ready learning materials, technical assessments, and modernizing student dev setups (`venv` → `uv`).
 
----
-
-### 🤖 Claude Code & Agentic AI Workflows
-
-- **Custom CLI Skills:** Designed repo-specific `SKILL.md` skills (e.g. `/add-quiz-topic` for automated assessment generation, `/review` for PR audits) to streamline teaching workflows.
-- **Workflow Hooks:** Configured `PostToolUse` shell hooks (`black`, `ruff`) for zero-overhead code formatting and automated verification.
-- **Prompt & Context Safeguards:** Standardized structured prompt engineering (Context, Ask, Constraints) and token-saving practices (`/compact`, `/clear`) across project repos.
 
 ---
 
